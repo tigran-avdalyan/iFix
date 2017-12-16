@@ -703,7 +703,7 @@ ul.resp-tabs-list {
     width: 205px;
     text-align: center;
     background: #fff;
-    margin: 0 auto 10px;
+    margin: 0 auto 10px 10px;
     transition: all 0.3s ease 0s;
 }
 .resp-tabs-list li:hover,
