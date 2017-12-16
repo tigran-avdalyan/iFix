@@ -992,7 +992,7 @@ ul.list-of-our-clients {
 ul.list-of-our-clients li figure {
     display: block;
     margin: 0 auto 28px auto;
-    background-color: #fff;
+   /* background-color: #fff;*/
     text-align: center;
     width: 150px;
     height: 90px;
