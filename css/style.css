@@ -857,7 +857,7 @@ ul.list-of-employee {
     -ms-transform: rotateY(360deg);
     -o-transform: rotateY(360deg);
     transform: rotateY(360deg);
-	height: 130px;
+	height: 128px;
 }
 ul.list-of-employee li h4 {
     font-size: 28px;
