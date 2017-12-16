@@ -1507,7 +1507,7 @@ footer[role="contentinfo"] {
         display: inline-block;
         vertical-align: top;
         margin-bottom: 25px;
-        width: 30%;
+        width: 49%;
     }
     #our-employee ul.list-of-employee {
         padding-bottom: 40px;
@@ -1882,7 +1882,7 @@ footer[role="contentinfo"] {
         line-height: 24px;
     }
     #about-us ul.list-of-our-clients li {
-        width: 48%;
+        width: 100%;
         margin-bottom: 15px;
     }
     .our-awards-slider {
