@@ -533,7 +533,7 @@ a.to-employee-btn:hover {
 }
 #slider .slide img {
     max-width: 100%;
-    border-radius: 50%;
+   /* border-radius: 50%;*/
 }
 #slider .slide:first-child {
     display: block;
