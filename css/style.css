@@ -1128,18 +1128,23 @@ ul.contacts-address2 {
 }
 .contacts-address2 li:first-child + li {
     background: url('../img/007-facebook.svg') 0 no-repeat;
+	margin: 0 0 8px 0;
 }
 .contacts-address2 li:first-child + li + li {
     background: url('../img/005-viber.svg') 0 no-repeat;
+	margin: 0 0 8px 0;
 }
 .contacts-address2 li:first-child + li + li + li {
     background: url('../img/003-telegram.svg') 0  no-repeat;
+	margin: 0 0 8px 0;
 }
 .contacts-address2 li:first-child + li + li + li + li {
     background: url('../img/008-whatsapp.svg') 0  no-repeat;
+	margin: 0 0 8px 0;
 }
 .contacts-address2 li:first-child + li + li + li + li + li {
     background: url('../img/004-skype.svg') 0  no-repeat;
+	margin: 0 0 8px 0;
 }
 
 
