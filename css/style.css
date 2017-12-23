@@ -1078,6 +1078,13 @@ ul.contacts-address {
     margin: 0;
     padding: 0 0 0 25px;
 }
+.contacts-address li a {
+    color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+    padding: 0 0 0 25px;
+}
 .contacts-address li:first-child {
     margin: 0 0 20px;
     padding: 0;
@@ -1092,6 +1099,45 @@ ul.contacts-address {
 .contacts-address li:first-child + li + li + li {
     background: url('../img/html6_sprite03.png') 0 -154px no-repeat;
 }
+
+ul.contacts-address2 {
+    padding-right: 60px;
+    float: left;
+    width: 33%;
+    clear: none;
+    font-weight: 300;
+}
+.contacts-address2 li {
+    color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+    padding: 0 0 0 25px;
+}
+.contacts-address2 li a {
+    color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+    padding: 0 0 0 25px;
+}
+.contacts-address2 li:first-child {
+    margin: 0 0 20px;
+    padding: 0;
+    background: transparent;
+}
+.contacts-address2 li:first-child + li {
+    background: url('../img/html6_sprite03.png') 0 4px no-repeat;
+}
+.contacts-address2 li:first-child + li + li {
+    background: url('../img/html6_sprite03.png') 0 -74px no-repeat;
+}
+.contacts-address2 li:first-child + li + li + li {
+    background: url('../img/html6_sprite03.png') 0 -154px no-repeat;
+}
+
+
+
 form.contact-form {
     display: block;
     overflow: hidden;
