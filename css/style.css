@@ -1127,13 +1127,19 @@ ul.contacts-address2 {
     background: transparent;
 }
 .contacts-address2 li:first-child + li {
-    background: url('../img/html6_sprite03.png') 0 4px no-repeat;
+    background: url('../img/007-facebook.svg') 0 no-repeat;
 }
 .contacts-address2 li:first-child + li + li {
-    background: url('../img/html6_sprite03.png') 0 -74px no-repeat;
+    background: url('../img/005-viber.svg') 0 no-repeat;
 }
 .contacts-address2 li:first-child + li + li + li {
-    background: url('../img/html6_sprite03.png') 0 -154px no-repeat;
+    background: url('../img/003-telegram.svg') 0  no-repeat;
+}
+.contacts-address2 li:first-child + li + li + li + li {
+    background: url('../img/008-whatsapp.svg') 0  no-repeat;
+}
+.contacts-address2 li:first-child + li + li + li + li + li {
+    background: url('../img/004-skype.svg') 0  no-repeat;
 }
 
 
