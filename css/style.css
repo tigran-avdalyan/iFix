@@ -1745,7 +1745,7 @@ footer[role="contentinfo"] {
     #top-logo {
         float: none;
         width: 160px;
-        margin: 0 auto;
+        /*margin: 0 auto;*/
         display: block;
         position: relative;
         z-index: 1;
