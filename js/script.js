@@ -243,9 +243,11 @@ $(function() {
 		$('.services-provide-block ul li.item-1').animate({'left' : '0'} , 1000 , 'linear' , function(){
 			$('.services-provide-block ul li.item-2').animate({'left' : '0'} , 1000 , 'linear' , function(){
 				$('.services-provide-block ul li.item-3').animate({'left' : '0'} , 1000 , 'linear' , function(){
+					$('.services-provide-block ul li.item-4').animate({'left' : '0'} , 1000 , 'linear' , function(){
 					$('a.to-employee-btn').animate({'opacity' : '1'} , 1000 , 'linear');
 					$('.services-main-title').animate({'top' : '0', 'opacity' : '1'} , 700 , 'linear');
-				});
+					});
+				});	
 			});
 		});
 	});
