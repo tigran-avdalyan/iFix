@@ -481,6 +481,9 @@ a:hover {
 .services-provide-block ul li.item-3 {
     background: transparent url('../img/html6_sprite02.png') no-repeat 0 -948px;
 }
+.services-provide-block ul li.item-4 {
+    background: transparent url('../img/html6_sprite02.png') no-repeat 0 0;
+}
 .services-provide-block ul li.item-1.active {
     background: transparent url('../img/html6_sprite02.png') no-repeat 0 -237px;
 }
@@ -489,6 +492,9 @@ a:hover {
 }
 .services-provide-block ul li.item-3.active {
     background: transparent url('../img/html6_sprite02.png') no-repeat 0 -1185px;
+}
+.services-provide-block ul li.item-4.active {
+    background: transparent url('../img/html6_sprite02.png') no-repeat 0 -237px;
 }
 a.to-employee-btn {
     float: left;
